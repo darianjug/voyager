@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'usage_help'           => 'You can get the value of each setting anywhere on your site by calling',
+    'save'                 => 'Pohrani postavku',
+    'new'                  => 'Nova postavka',
+    'help_name'            => 'Setting name ex: Admin Title',
+    'help_key'             => 'Setting key ex: admin_title',
+    'help_option'          => '(optional, only applies to certain types like dropdown box or radio button)',
+    'add_new'              => 'Dodaj novu postavku',
+    'delete_question'      => 'Da li ste sigurni da želite obrisati postavku :setting?',
+    'delete_confirm'       => 'Da, obriši ovu postavku',
+    'successfully_created' => 'Postavka uspješno stvorena',
+    'successfully_saved'   => 'Postavka uspješno pohranjena',
+    'successfully_deleted' => 'Postavka uspješno obrisana',
+    'already_at_top'       => 'Vrijednost je već na vrhu liste',
+    'already_at_bottom'    => 'Vrijednost je već na dnu liste',
+    'key_already_exists'   => 'Ključ :key već postoji',
+    'moved_order_up'       => 'Postavka :name pomaknuta gore',
+    'moved_order_down'     => 'Postavka :name pomaknuta dolje',
+    'successfully_removed' => 'Vrijednost :name uspješno uklonjena',
+    'group_general'        => 'Općenito',
+    'group_admin'          => 'Administrator',
+    'group_site'           => 'Javno',
+    'group'                => 'Grupa',
+    'help_group'           => 'Grupa za ovu postavku',
+];
